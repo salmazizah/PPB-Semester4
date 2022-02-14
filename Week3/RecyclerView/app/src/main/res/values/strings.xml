@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="fab_add">add new item</string>
+</resources>
