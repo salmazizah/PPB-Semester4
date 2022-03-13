@@ -8,21 +8,13 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Renotion">
-        <activity
-            android:name=".NoteActivity"
-            android:exported="false"
-            android:label="@string/title_activity_note"
-            android:theme="@style/Theme.Renotion.NoActionBar" />
+        android:theme="@style/Theme.Renotion.NoActionBar">
         <activity
             android:name=".TaskActivity"
-            android:exported="false"
-            android:label="@string/title_activity_task"
-            android:theme="@style/Theme.Renotion.NoActionBar" />
+            android:exported="false" />
         <activity
             android:name=".SplashActivity"
-            android:exported="true"
-            android:theme="@style/Theme.Renotion.NoActionBar">
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

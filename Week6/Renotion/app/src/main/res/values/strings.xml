@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Renotion</string>
+    <string name="task_button">Task List</string>
+    <string name="note_button">Notes List</string>
+    <string name="note_title">Notes List</string>
+    <string name="task_title">Task List</string>
+    <string name="add_word">Add Word</string>
+    <string name="hint_word">Task...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Task not saved because it is empty.</string>
+</resources>

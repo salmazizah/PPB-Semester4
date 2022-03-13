@@ -17,12 +17,9 @@ public class SplashActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-
-                //setelah loading maka akan langsung berpindah ke home activity
-                Intent main = new Intent(SplashActivity.this, NoteActivity.class);
+                Intent main = new Intent(SplashActivity.this, MainActivity.class);
                 startActivity(main);
                 finish();
-
             }
         },splash_time);
     }

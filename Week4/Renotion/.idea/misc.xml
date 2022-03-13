@@ -3,14 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/activity_note.xml" value="0.1983695652173913" />
-        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/activity_splash.xml" value="0.1983695652173913" />
-        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/activity_task.xml" value="0.1983695652173913" />
-        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/content_note.xml" value="0.1983695652173913" />
-        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/content_task.xml" value="0.1983695652173913" />
-        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/fragment_first.xml" value="0.1983695652173913" />
-        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/fragment_second.xml" value="0.1983695652173913" />
+        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/activity_main.xml" value="0.4423963133640553" />
+        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+        <entry key="..\:/Belajar/AndroidStudio/PPB-Semester4/Week4/Renotion/app/src/main/res/layout/activity_task.xml" value="0.2" />
       </map>
     </option>
   </component>
