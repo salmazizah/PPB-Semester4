@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Renotion.NoActionBar">
         <activity
+            android:name=".NoteDetails"
+            android:exported="false"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=
+                    "com.example.renotion.MainActivity" />
+        </activity>
+        <activity
             android:name=".TaskActivity"
             android:exported="false" />
         <activity

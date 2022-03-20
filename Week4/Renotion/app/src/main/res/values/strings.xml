@@ -4,4 +4,6 @@
     <string name="note_button">Notes List</string>
     <string name="note_title">Notes List</string>
     <string name="task_title">Task List</string>
+    <string name="fab_add">Add New</string>
+    <string name="text_header">Message Received</string>
 </resources>
