@@ -67,8 +67,7 @@ public class BlurViewModel extends ViewModel {
      */
     void applyBlur(int blurLevel) {
         // Add WorkRequest to Cleanup temporary images
-        WorkContinuation continuation = mWorkManager
-                .beginUniqueWork(IMAGE_MANIPULATION_WORK_NAME,
+        WorkContinuation continuation = mWorkManager.beginUniqueWork(IMAGE_MANIPULATION_WORK_NAME,
                         ExistingWorkPolicy.REPLACE, OneTimeWorkRequest.from(CleanupWorker.class));
         // Add WorkRequests to blur the image the number of times requested
         for (int i = 0; i < blurLevel; i++) {
