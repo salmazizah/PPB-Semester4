@@ -1,0 +1,12 @@
+com.example.android.twoactivities.app-appcompat-v7-26.1.0-0 C:\Users\Salma\.gradle\caches\transforms-3\304df8071a656dcf698c9333fb00df8b\transformed\appcompat-v7-26.1.0\res
+com.example.android.twoactivities.app-support-media-compat-26.1.0-1 C:\Users\Salma\.gradle\caches\transforms-3\9556799ce9356dc09f13c5466356116d\transformed\support-media-compat-26.1.0\res
+com.example.android.twoactivities.app-constraint-layout-1.0.2-2 C:\Users\Salma\.gradle\caches\transforms-3\b11c46b63d1932fcea6b3ce23f7f68d3\transformed\constraint-layout-1.0.2\res
+com.example.android.twoactivities.app-support-compat-26.1.0-3 C:\Users\Salma\.gradle\caches\transforms-3\d4c9392cf7a4ad2a8108a59e10d48593\transformed\support-compat-26.1.0\res
+com.example.android.twoactivities.app-pngs-4 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\TwoActivities\app\build\generated\res\pngs\debug
+com.example.android.twoactivities.app-resValues-5 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\TwoActivities\app\build\generated\res\resValues\debug
+com.example.android.twoactivities.app-rs-6 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\TwoActivities\app\build\generated\res\rs\debug
+com.example.android.twoactivities.app-mergeDebugResources-7 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\TwoActivities\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.twoactivities.app-mergeDebugResources-8 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\TwoActivities\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.twoactivities.app-merged_res-9 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\TwoActivities\app\build\intermediates\merged_res\debug
+com.example.android.twoactivities.app-debug-10 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\TwoActivities\app\src\debug\res
+com.example.android.twoactivities.app-main-11 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\TwoActivities\app\src\main\res

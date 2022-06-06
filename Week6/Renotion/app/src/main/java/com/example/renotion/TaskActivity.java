@@ -29,7 +29,6 @@ public class TaskActivity extends AppCompatActivity {
         mTaskViewModel = new ViewModelProvider(this).get(TaskViewModel.class);
 
         mTaskViewModel.getAllTasks().observe(this, tasks -> {
-            // Update the cached copy of the tasks in the adapter.
             adapter.submitList(tasks);
         });
 
@@ -49,13 +48,11 @@ public class TaskActivity extends AppCompatActivity {
         super.onActivityResult(requestCode, resultCode, data);
 
         if (requestCode == NEW_TASK_ACTIVITY_REQUEST_CODE && resultCode == RESULT_OK) {
-            Task task = new Task(data.getStringExtra(NewTaskActivity.EXTRA_REPLY));
+            Task task = data.getParcelableExtra("task");
             mTaskViewModel.insert(task);
+            Toast.makeText(getApplicationContext(), R.string.saved, Toast.LENGTH_LONG).show();
         } else {
-            Toast.makeText(
-                    getApplicationContext(),
-                    R.string.empty_not_saved,
-                    Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), R.string.not_saved, Toast.LENGTH_LONG).show();
         }
     }
 }

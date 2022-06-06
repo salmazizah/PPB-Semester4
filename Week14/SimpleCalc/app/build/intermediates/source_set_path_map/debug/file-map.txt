@@ -1,0 +1,11 @@
+com.example.android.SimpleCalc.app-support-compat-27.1.1-0 C:\Users\Salma\.gradle\caches\transforms-3\17b9d6d6b72535a9ea0f7eeeebb6092a\transformed\support-compat-27.1.1\res
+com.example.android.SimpleCalc.app-appcompat-v7-27.1.1-1 C:\Users\Salma\.gradle\caches\transforms-3\248f947633a9d4e4613858c1d6a0bf47\transformed\appcompat-v7-27.1.1\res
+com.example.android.SimpleCalc.app-support-core-ui-27.1.1-2 C:\Users\Salma\.gradle\caches\transforms-3\c031cb7a2c1d869a6b98b82334412367\transformed\support-core-ui-27.1.1\res
+com.example.android.SimpleCalc.app-pngs-3 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\generated\res\pngs\debug
+com.example.android.SimpleCalc.app-resValues-4 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\generated\res\resValues\debug
+com.example.android.SimpleCalc.app-rs-5 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\generated\res\rs\debug
+com.example.android.SimpleCalc.app-mergeDebugResources-6 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.SimpleCalc.app-mergeDebugResources-7 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.SimpleCalc.app-merged_res-8 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\build\intermediates\merged_res\debug
+com.example.android.SimpleCalc.app-debug-9 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\debug\res
+com.example.android.SimpleCalc.app-main-10 D:\Belajar\AndroidStudio\PPB-Semester4\Week14\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\res

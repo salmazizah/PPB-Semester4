@@ -1,0 +1,16 @@
+#Mon Apr 04 11:07:43 ICT 2022
+path.4=classes2.dex
+path.3=9/classes.dex
+path.2=12/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.4=D\:\\201511027\\kotlin-coroutines\\coroutines-codelab\\start\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes2.dex
+base.3=D\:\\201511027\\kotlin-coroutines\\coroutines-codelab\\start\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\9\\classes.dex
+base.2=D\:\\201511027\\kotlin-coroutines\\coroutines-codelab\\start\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\12\\classes.dex
+base.1=D\:\\201511027\\kotlin-coroutines\\coroutines-codelab\\start\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.0=D\:\\201511027\\kotlin-coroutines\\coroutines-codelab\\start\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex

@@ -6,7 +6,9 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
+    <color name="grey">#4d4d4d</color>
     <color name="white">#FFFFFFFF</color>
     <color name="purple">#D5AAFB</color>
     <color name="buttonLabel">#FFFFFF</color>
+    <color name="purple_bg">#e6e6ff</color>
 </resources>

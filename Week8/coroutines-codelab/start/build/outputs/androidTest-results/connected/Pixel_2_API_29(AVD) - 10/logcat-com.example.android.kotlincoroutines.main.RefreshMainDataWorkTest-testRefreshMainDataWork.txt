@@ -1,0 +1,2 @@
+04-04 11:07:51.417  2081  2170 I TestRunner: started: testRefreshMainDataWork(com.example.android.kotlincoroutines.main.RefreshMainDataWorkTest)
+04-04 11:07:51.631  2081  2170 I TestRunner: finished: testRefreshMainDataWork(com.example.android.kotlincoroutines.main.RefreshMainDataWorkTest)

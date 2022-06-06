@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.example.android.kotlincoroutines.main.RefreshMainDataWorkTest" tests="1" failures="0" errors="0" skipped="0" time="0.289" timestamp="2022-04-04T04:07:51" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_2_API_29(AVD) - 10" />
+    <property name="flavor" value="" />
+    <property name="project" value="start" />
+  </properties>
+  <testcase name="testRefreshMainDataWork" classname="com.example.android.kotlincoroutines.main.RefreshMainDataWorkTest" time="0.173" />
+</testsuite>

@@ -1,0 +1,68 @@
+# 2022-04-04T04:07:51.990Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "RefreshMainDataWorkTest"
+    test_package: "com.example.android.kotlincoroutines.main"
+    test_method: "testRefreshMainDataWork"
+    start_time {
+      seconds: 1649045271
+      nanos: 623000000
+    }
+    end_time {
+      seconds: 1649045271
+      nanos: 837000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\201511027\\kotlin-coroutines\\coroutines-codelab\\start\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_29(AVD) - 10\\logcat-com.example.android.kotlincoroutines.main.RefreshMainDataWorkTest-testRefreshMainDataWork.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\201511027\\kotlin-coroutines\\coroutines-codelab\\start\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_29(AVD) - 10\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\201511027\\kotlin-coroutines\\coroutines-codelab\\start\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_29(AVD) - 10\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "D:\\201511027\\kotlin-coroutines\\coroutines-codelab\\start\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_29(AVD) - 10\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "D:\\201511027\\kotlin-coroutines\\coroutines-codelab\\start\\build\\outputs\\androidTest-results\\connected\\Pixel_2_API_29(AVD) - 10\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

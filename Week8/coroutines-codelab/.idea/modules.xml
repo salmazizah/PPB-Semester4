@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coroutines-codelab.iml" filepath="$PROJECT_DIR$/.idea/modules/coroutines-codelab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/finished_code/coroutines-codelab.finished_code.iml" filepath="$PROJECT_DIR$/.idea/modules/finished_code/coroutines-codelab.finished_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/start/coroutines-codelab.start.iml" filepath="$PROJECT_DIR$/.idea/modules/start/coroutines-codelab.start.iml" />
+    </modules>
+  </component>
+</project>

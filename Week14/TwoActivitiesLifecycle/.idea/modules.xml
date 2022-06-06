@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TwoActivitiesLifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/TwoActivitiesLifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwoActivitiesLifecycle.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwoActivitiesLifecycle.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwoActivitiesLifecycle.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwoActivitiesLifecycle.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwoActivitiesLifecycle.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwoActivitiesLifecycle.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TwoActivitiesLifecycle.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TwoActivitiesLifecycle.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

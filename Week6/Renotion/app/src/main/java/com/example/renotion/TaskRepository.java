@@ -13,12 +13,13 @@ public class TaskRepository {
     TaskRepository(Application application) {
         TaskRoomDatabase db = TaskRoomDatabase.getDatabase(application);
         mTaskDao = db.taskDao();
-        mAllTasks = mTaskDao.getAlphabetizedTasks();
+        mAllTasks = mTaskDao.getAll();
     }
 
     LiveData<List<Task>> getAllTasks() {
         return mAllTasks;
     }
+
     void insert(Task task) {
         TaskRoomDatabase.databaseWriteExecutor.execute(() -> {
             mTaskDao.insert(task);

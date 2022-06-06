@@ -5,7 +5,11 @@
     <string name="note_title">Notes List</string>
     <string name="task_title">Task List</string>
     <string name="add_word">Add Word</string>
-    <string name="hint_word">Task...</string>
+    <string name="hint_word">Add Task Name...</string>
+    <string name="hint_desc">Add Description...</string>
+    <string name="hint_date">Pick Due Date...</string>
+    <string name="hint_time">Pick Due Time...</string>
     <string name="button_save">Save</string>
-    <string name="empty_not_saved">Task not saved because it is empty.</string>
+    <string name="not_saved">Task not saved</string>
+    <string name="saved">Task saved</string>
 </resources>

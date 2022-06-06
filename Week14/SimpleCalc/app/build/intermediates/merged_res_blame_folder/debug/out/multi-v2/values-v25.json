@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.SimpleCalc.app-mergeDebugResources-6:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Salma\\.gradle\\caches\\transforms-3\\248f947633a9d4e4613858c1d6a0bf47\\transformed\\appcompat-v7-27.1.1\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
