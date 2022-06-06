@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="action_geolocate">Pick Place</string>
+    <string name="default_info_title">Default Location</string>
+    <string name="default_info_snippet">No places found, because location permission is disabled.</string>
+    <string name="google_maps_key">AIzaSyCRJOEpRj6hV_ld5dKorcRwx6M_E9Mows4</string>
+</resources>
